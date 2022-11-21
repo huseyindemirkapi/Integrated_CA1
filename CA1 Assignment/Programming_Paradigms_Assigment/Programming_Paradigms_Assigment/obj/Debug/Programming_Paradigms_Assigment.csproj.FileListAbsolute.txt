@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\Programming_Paradigms_Assigment\Programming_Paradigms_Assigment\bin\Debug\Programming_Paradigms_Assigment.exe.config
+C:\Users\ASUS\source\repos\Programming_Paradigms_Assigment\Programming_Paradigms_Assigment\bin\Debug\Programming_Paradigms_Assigment.exe
+C:\Users\ASUS\source\repos\Programming_Paradigms_Assigment\Programming_Paradigms_Assigment\bin\Debug\Programming_Paradigms_Assigment.pdb
+C:\Users\ASUS\source\repos\Programming_Paradigms_Assigment\Programming_Paradigms_Assigment\obj\Debug\Programming_Paradigms_Assigment.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Programming_Paradigms_Assigment\Programming_Paradigms_Assigment\obj\Debug\Programming_Paradigms_Assigment.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\Programming_Paradigms_Assigment\Programming_Paradigms_Assigment\obj\Debug\Programming_Paradigms_Assigment.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Programming_Paradigms_Assigment\Programming_Paradigms_Assigment\obj\Debug\Programming_Paradigms_Assigment.exe
+C:\Users\ASUS\source\repos\Programming_Paradigms_Assigment\Programming_Paradigms_Assigment\obj\Debug\Programming_Paradigms_Assigment.pdb
+C:\Users\ASUS\source\repos\Programming_Paradigms_Assigment\Programming_Paradigms_Assigment\bin\Debug\HtmlAgilityPack.dll
+C:\Users\ASUS\source\repos\Programming_Paradigms_Assigment\Programming_Paradigms_Assigment\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\ASUS\source\repos\Programming_Paradigms_Assigment\Programming_Paradigms_Assigment\bin\Debug\HtmlAgilityPack.xml
+C:\Users\ASUS\source\repos\Programming_Paradigms_Assigment\Programming_Paradigms_Assigment\obj\Debug\Programming_Paradigms_Assigment.csproj.CopyComplete
